@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Nisala Nadeera, a passionate software engineer.
 
-- 👀 I specialize in crafting dynamic web applications using technologies like ReactJs, Angular, NestJs, Redux, Zustand, HTML, and CSS. I thrive on turning ideas into robust and user-friendly solutions.
+- 👀 I specialize in crafting dynamic web applications using technologies like ReactJs, Angular, NestJs, NextJs, Redux, Zustand, HTML, and CSS. I thrive on turning ideas into robust and user-friendly solutions.
 
 - 🌱 Currently, I am on a journey of continuous learning and growth, exploring new possibilities in the ever-evolving world of web development.
 
