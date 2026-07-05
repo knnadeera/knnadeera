@@ -1,14 +1,45 @@
-- 👋 Hi there, I'm Nisala Nadeera, a passionate software engineer.
+# Nisala Nadeera Kudaligamage
 
-- 👀 I specialize in crafting dynamic web applications using technologies like ReactJs, Angular, NestJs, NextJs, Redux, Zustand, HTML, and CSS. I thrive on turning ideas into robust and user-friendly solutions.
+**Full-Stack Software Engineer** · Sri Lanka  
+[nisalanadeera.com](https://nisalanadeera.com) · [LinkedIn](https://linkedin.com/in/nisala-nadeera) · knnadeera@gmail.com
 
-- 🌱 Currently, I am on a journey of continuous learning and growth, exploring new possibilities in the ever-evolving world of web development.
+---
 
-- 💼 Open to exciting collaborations! I'm eager to contribute my skills to challenging projects that push the boundaries of innovation.
+## About
 
-- 📫 Let's connect! Reach me at knnadeera@gmail.com or knnadeera1@gmail.com. I'm always open to discussing opportunities and brainstorming new ideas.
+Software engineer with 7+ years of experience building enterprise ERPs, IoT platforms, and full-stack web and mobile applications. Currently at **DigitusTec Holding (Pvt) Ltd**, where I have been a core contributor to the **CYOL Agriculture ERP & IoT Platform** since its inception — authoring 70–80% of the codebase across both versions and serving as the team's primary technical reference.
 
-<!---
-knnadeera/knnadeera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I also hold a qualification as a **drone pilot** and have worked on precision agriculture UAV research at the University of Moratuwa.
+
+---
+
+## Featured Projects
+
+| Project | Description | Link |
+|---|---|---|
+| **CYOL Agriculture ERP** | Precision agriculture ERP + real-time IoT sensor platform (LoRa/GSM). Angular · NestJS · MongoDB · React Native | [Overview](https://nisalanadeera.com/projects/cyol) |
+| **country-data-filter** | npm package — 190 countries with provinces, districts, cities, and cascading React/Angular components. 23 releases. | [npm](https://www.npmjs.com/package/country-data-filter) · [Overview](https://nisalanadeera.com/projects/country-data-filter) |
+| **Sentinel Guard Tracking** | Real-time guard location + NFC attendance platform for Raigam Group. Next.js · React Native · MongoDB | [Overview](https://nisalanadeera.com/projects/sentinel) |
+| **Excalibur Integration Middleware** | NestJS API middleware bridging Excalibur educational ERP ↔ SAP Business One. 100% solo build. | [Overview](https://nisalanadeera.com/projects/excalibur) |
+| **AuraX ERP** | Tea industry ERP — auction buying, blending, shipping, weighbridge, SAP B1. Angular · NestJS | [Overview](https://nisalanadeera.com/projects/aurax) |
+| **Expense Manager** | Full-stack expense, asset, and inventory management app. React 19 · NestJS · MongoDB | [Overview](https://nisalanadeera.com/projects/expense-manager) |
+
+---
+
+## Tech Stack
+
+**Frontend** — Angular · React · Next.js · React Native · TypeScript · Tailwind CSS · RxJS  
+**Backend** — NestJS · Node.js · REST APIs · JWT · RBAC  
+**Database** — MongoDB · Mongoose · MongoDB Aggregation Pipelines  
+**IoT / Hardware** — LoRa · GSM · Master-slave sensor networks · Edge data processing  
+**Integrations** — SAP Business One (Service Layer) · WebSocket · AWS S3  
+**Tools** — Git · GitLab CI · PM2 · Expo · Zustand · Recharts
+
+---
+
+## Get in Touch
+
+- **Portfolio:** [nisalanadeera.com](https://nisalanadeera.com)
+- **LinkedIn:** [linkedin.com/in/nisala-nadeera](https://linkedin.com/in/nisala-nadeera)
+- **npm:** [npmjs.com/~knnadeera](https://www.npmjs.com/~knnadeera)
+- **Email:** knnadeera@gmail.com
